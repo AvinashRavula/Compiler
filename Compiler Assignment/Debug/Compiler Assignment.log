@@ -1,0 +1,17 @@
+﻿Build started 02-Jun-18 9:45:48 PM.
+     1>Project "D:\Avinash New\MissionRnD\CCourse\summercamp\Compiler Assignment\Compiler Assignment\Compiler Assignment.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Compiler Assignment.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Compiler Assignment.cpp"
+         Compiler Assignment.cpp
+     1>d:\avinash new\missionrnd\ccourse\summercamp\compiler assignment\compiler assignment\string_utils.h(21): warning C4101: 'output' : unreferenced local variable
+     1>d:\avinash new\missionrnd\ccourse\summercamp\compiler assignment\compiler assignment\file_utils.h(54): warning C4715: 'convert_data_instruction' : not all control paths return a value
+     1>d:\avinash new\missionrnd\ccourse\summercamp\compiler assignment\compiler assignment\file_utils.h(271): warning C4715: 'get_symbol_name' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Avinash New\MissionRnD\CCourse\summercamp\Compiler Assignment\Debug\Compiler Assignment.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib pthreadVC2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Avinash New\MissionRnD\CCourse\summercamp\Compiler Assignment\Debug\Compiler Assignment.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Avinash New\MissionRnD\CCourse\summercamp\Compiler Assignment\Debug\Compiler Assignment.lib" /MACHINE:X86 "Debug\Compiler Assignment.obj"
+         Debug\stdafx.obj
+         Compiler Assignment.vcxproj -> D:\Avinash New\MissionRnD\CCourse\summercamp\Compiler Assignment\Debug\Compiler Assignment.exe
+     1>Done Building Project "D:\Avinash New\MissionRnD\CCourse\summercamp\Compiler Assignment\Compiler Assignment\Compiler Assignment.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.57
